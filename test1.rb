@@ -1,1 +1,5 @@
-abc123
+class Test
+  def self.❨╯°□°❩╯︵┻━┻
+      puts "Calm down, bro"
+  end
+end
